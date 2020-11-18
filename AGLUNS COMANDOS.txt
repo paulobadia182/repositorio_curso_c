@@ -1,0 +1,5 @@
+git init = inicia o git
+
+$ git add .= add todos arquivos
+
+
