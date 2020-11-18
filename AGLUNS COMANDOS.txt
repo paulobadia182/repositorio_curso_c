@@ -1,5 +1,11 @@
 git init = inicia o git
 
-$ git add .= add todos arquivos
+git status = vê o status  (verde = esta pronto para ser comitado)
+
+$ git add .= add todos arquivos.
+
+git commit -m "descricao do commit"
+
+git log = log dos commits
 
 
